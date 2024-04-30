@@ -1,0 +1,59 @@
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #007bff;
+  color: mediumpurple;
+}
+.h2 {
+  font-size: 100px;
+  font-weight: 200;
+  color: sienna;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: aquamarine;
+  text-align: left;
+  color: black;
+}
+
+header,
+section {
+  margin-bottom: 30px;
+  background-color: teal;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  color: peru;
+}
+h2 {
+  color: firebrick;
+}
+h4 {
+  color: goldenrod;
+}
+
+.name {
+  color: sandybrown;
+  font-weight: 100px;
+}
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: brown;
+}
+
+a:hover {
+  text-decoration: underline;
+}
